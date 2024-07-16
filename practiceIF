@@ -1,0 +1,12 @@
+public class practiceIF {
+	public static void main(String[]args)
+	{
+		int i =100;
+		if(i>80)
+		{
+			System.out.println("80 is lesser than 100");
+		}
+			
+	}
+
+}
